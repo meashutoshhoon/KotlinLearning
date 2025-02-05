@@ -10,7 +10,7 @@ This repository documents my journey of learning **Kotlin** from **Philipp Lackn
 
 ## Repository Structure
 ```
-/Kotlin-Learning
+/KotlinLearning
 │── Day01.kt
 │── ...
 │── Day27.kt
