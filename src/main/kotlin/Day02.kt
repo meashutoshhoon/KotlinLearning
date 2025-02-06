@@ -33,7 +33,7 @@ fun main() {
 /**
  * Homework function to demonstrate storing and printing personal details.
  */
-fun homeWork() {
+private fun homeWork() {
     val age = 19
     val favouriteNumber = 404
     println("My age is $age")

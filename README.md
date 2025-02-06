@@ -34,13 +34,14 @@ I follow a structured commit message format to maintain clarity and consistency:
 - **chore:** For code maintenance (you can also use emojis to represent commit types). 🎨📌🔧
 
 ## Progress Tracking 📊✅🚀
-| Video No. | Topic                | Status |
-|-----------|----------------------|--------|
-| 1         | Kotlin Basics        | ✅     |
+| Video No. | Topic                                                     | Status |
+|-----------|-----------------------------------------------------------|--------|
+| 1         | Kotlin Basics                                             | ✅     |
 | 2         | Variables (`var`, `val`), Boolean, and Naming Conventions | ✅ |
-| 3         | Arithmetic Operators | 🔜     |
-| ...       | ...                  | ...    |
-| 27        | Final Project        | 🔜     |
+| 3         | Arithmetic Operators                                      | ✅     |
+| 4         | Decimal Numbers                                           | 🔜     |
+| ...       | ...                                                       | ...    |
+| 27        | Final Project                                             | 🔜     |
 
 ## How to Use This Repository 🔍📂📌
 - Clone the repository using:
