@@ -39,7 +39,8 @@ I follow a structured commit message format to maintain clarity and consistency:
 | 1         | Kotlin Basics                                             | ✅     |
 | 2         | Variables (`var`, `val`), Boolean, and Naming Conventions | ✅ |
 | 3         | Arithmetic Operators                                      | ✅     |
-| 4         | Decimal Numbers                                           | 🔜     |
+| 4         | Decimal Numbers                                           | ✅     |
+| 5         | Strings                                                   | 🔜     |
 | ...       | ...                                                       | ...    |
 | 27        | Final Project                                             | 🔜     |
 
