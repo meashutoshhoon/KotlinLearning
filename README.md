@@ -34,15 +34,21 @@ I follow a structured commit message format to maintain clarity and consistency:
 - **chore:** For code maintenance (you can also use emojis to represent commit types). 🎨📌🔧
 
 ## Progress Tracking 📊✅🚀
-| Video No. | Topic                                                     | Status |
-|-----------|-----------------------------------------------------------|--------|
-| 1         | Kotlin Basics                                             | ✅     |
+| Video No. | Topic                                                    | Status |
+|-----------|----------------------------------------------------------|--------|
+| 1         | Kotlin Basics                                            | ✅     |
 | 2         | Variables (`var`, `val`), Boolean, and Naming Conventions | ✅ |
-| 3         | Arithmetic Operators                                      | ✅     |
-| 4         | Decimal Numbers                                           | ✅     |
-| 5         | Strings                                                   | 🔜     |
-| ...       | ...                                                       | ...    |
-| 27        | Final Project                                             | 🔜     |
+| 3         | Arithmetic Operators                                     | ✅     |
+| 4         | Decimal Numbers                                          | ✅     |
+| 5         | Strings                                                  | ✅     |
+| 6         | Logical and Comparison                                   | 🔜     |
+| 7         | IF Conditions                                            | 🔜     |
+| 8         | Null Values and User Inputs                              | 🔜     |
+| 9         | Arrays                                                   | 🔜     |
+| 10        | While Loop                                               | 🔜     |
+| 11        | For Loop                                                 | 🔜     |
+| ...       | ...                                                      | ...    |
+| 27        | Final Project                                            | 🔜     |
 
 ## How to Use This Repository 🔍📂📌
 - Clone the repository using:
