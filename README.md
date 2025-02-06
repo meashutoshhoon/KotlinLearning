@@ -10,13 +10,14 @@ This repository documents my journey of learning **Kotlin** from **Philipp Lackn
 
 ## Repository Structure 📂🗂️📌
 ```
-/KotlinLearning
-│── Day01.kt
-│── Day02.kt
-│── Day03.kt
-│── ...
-│── Day27.kt
-│── README.md
+/KotlinLearning  
+│── src/main/kotlin/  
+│   │── Day01.kt  
+│   │── Day02.kt  
+│   │── Day03.kt  
+│   │── ...  
+│   │── Day27.kt  
+│── README.md  
 ```
 Each file contains the code and concepts covered in the respective video. 📝💡📌
 
